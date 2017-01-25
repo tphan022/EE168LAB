@@ -1,0 +1,2 @@
+INCLUDE $SAED90_PDK/lib.defs
+DEFINE mylibrary ./mylibrary

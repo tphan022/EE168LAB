@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!-- created by Custom Designer (TM), build #, on Thu Jan 19 22:31:53 2017
+-->
+<synopsysFile version="1.0" name="synopsysFavoriteDevices">
+        <favoriteDevices viewType="maskLayout"/>
+        <favoriteDevices viewType="schematic">
+                <cellView cell="nmos4t" view="symbol" library="SAED_PDK_90">
+                        <alias name="nmos4t"/>
+                        <category name="Recently Placed"/>
+                </cellView>
+                <cellView cell="inverter" view="symbol" library="mylibrary">
+                        <alias name="inverter"/>
+                        <category name="Recently Placed"/>
+                </cellView>
+                <cellView cell="vsource" view="symbol" library="analogLib">
+                        <alias name="vsource"/>
+                        <category name="Recently Placed"/>
+                </cellView>
+                <cellView cell="vpulse" view="symbol" library="analogLib">
+                        <alias name="vpulse"/>
+                        <category name="Recently Placed"/>
+                </cellView>
+                <cellView cell="gnd" view="symbol" library="analogLib">
+                        <alias name="gnd"/>
+                        <category name="Recently Placed"/>
+                </cellView>
+        </favoriteDevices>
+</synopsysFile>

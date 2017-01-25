@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!-- created by Custom Designer build#  ,on -->
+<file-format version="1.0" name="synopsysPrefs">
+        <preferences>
+                <pref value="Symbol Editor" name="dbGenerateCellViewEditor"/>
+                <pref value="/usr/local/synopsys/pdk/SAED_PDK90nm/techfiles/saed90nm_1p9m_cd.tf" name="dmNewLibTechFile"/>
+                <pref value="file" name="dmNewLibTechType"/>
+                <pref value="true" name="leCheckViasDialogMode"/>
+                <pref value="false" name="leDisplayAxes"/>
+                <pref value="true" name="seCreateInstDialogMode"/>
+                <pref value="true" name="seCreateLabelDialogMode"/>
+                <pref value="true" name="seCreateNoteDialogMode"/>
+                <pref value="true" name="seImportSymbolDialogMode"/>
+                <pref value="background_netlisting sae_shell_netlist" name="xtNetlistingPrefixes"/>
+                <pref value="2" name="xtSAEShellJobLimit"/>
+                <pref value="sae_shell_results_viewer" name="xtSAEShellPrefixes"/>
+                <pref value="XA VHDL HSPICE Verilog Nanosim HSIM Spectre FineSimPro HSIMHSPICE XAHSPICE XASpectre XAVCSHSPICE FineSimProVCS" name="xtSimulationPrefixes"/>
+        </preferences>
+</file-format>
